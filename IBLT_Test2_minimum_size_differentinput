@@ -1,0 +1,93 @@
+
+
+
+when IBLT is 1.1times of the entry number, the successfully rate is: 0.148
+when IBLT is 1.14times of the entry number, the successfully rate is: 0.184
+when IBLT is 1.18times of the entry number, the successfully rate is: 0.221
+when IBLT is 1.2times of the entry number, the successfully rate is: 0.244
+when IBLT is 1.22times of the entry number, the successfully rate is: 0.229
+when IBLT is 1.24times of the entry number, the successfully rate is: 0.291
+when IBLT is 1.26times of the entry number, the successfully rate is: 0.344
+when IBLT is 1.28times of the entry number, the successfully rate is: 0.406
+when IBLT is 1.32times of the entry number, the successfully rate 100%
+when IBLT is 1.36times of the entry number, the successfully rate 100%
+when IBLT is 1.4times of the entry number, the successfully rate 100%
+when IBLT is 1.44times of the entry number, the successfully rate 100%
+when IBLT is 1.48times of the entry number, the successfully rate 100%
+
+
+
+RUN 50 times for input number 200. 
+when IBLT is 1.1 times of the entry number, the mean successfully rate is 0.115 with a standard deviation: 7.45058e-09
+when IBLT is 1.12 times of the entry number, the mean successfully rate is 0.125 with a standard deviation: 0
+when IBLT is 1.14 times of the entry number, the mean successfully rate is 0.185 with a standard deviation: 1.49012e-08
+when IBLT is 1.16 times of the entry number, the mean successfully rate is 0.245 with a standard deviation: 2.98023e-08
+when IBLT is 1.18 times of the entry number, the mean successfully rate is 0.21 with a standard deviation: 1.49012e-08
+when IBLT is 1.2 times of the entry number, the mean successfully rate is 0.25 with a standard deviation: 0
+when IBLT is 1.22 times of the entry number, the mean successfully rate is 0.245 with a standard deviation: 2.98023e-08
+when IBLT is 1.24 times of the entry number, the mean successfully rate is 0.285 with a standard deviation: 2.98023e-08
+when IBLT is 1.26 times of the entry number, the mean successfully rate is 0.36 with a standard deviation: 2.98023e-08
+when IBLT is 1.28 times of the entry number, the mean successfully rate is 0.385 with a standard deviation: 0
+when IBLT is 1.3 times of the entry number, the mean successfully rate is 0.44 with a standard deviation: 0
+when IBLT is 1.32 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.34 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.36 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.38 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.4 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.42 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.44 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.46 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.48 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+
+
+
+RUN 50 times for input number 2000. 
+number of entries is: 2000
+when IBLT is 1.1 times of the entry number, the mean successfully rate is 0.1505 with a standard deviation: 1.49012e-08
+when IBLT is 1.12 times of the entry number, the mean successfully rate is 0.1725 with a standard deviation: 0
+when IBLT is 1.14 times of the entry number, the mean successfully rate is 0.1835 with a standard deviation: 1.49012e-08
+when IBLT is 1.16 times of the entry number, the mean successfully rate is 0.1975 with a standard deviation: 0
+when IBLT is 1.18 times of the entry number, the mean successfully rate is 0.199 with a standard deviation: 0
+when IBLT is 1.2 times of the entry number, the mean successfully rate is 0.1895 with a standard deviation: 1.49012e-08
+when IBLT is 1.22 times of the entry number, the mean successfully rate is 0.2665 with a standard deviation: 0
+when IBLT is 1.24 times of the entry number, the mean successfully rate is 0.289 with a standard deviation: 0
+when IBLT is 1.26 times of the entry number, the mean successfully rate is 0.3375 with a standard deviation: 2.98023e-08
+when IBLT is 1.28 times of the entry number, the mean successfully rate is 0.3605 with a standard deviation: 2.98023e-08
+when IBLT is 1.3 times of the entry number, the mean successfully rate is 0.4495 with a standard deviation: 2.98023e-08
+when IBLT is 1.32 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.34 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.36 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.38 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.4 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.42 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.44 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.46 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.48 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+
+number of entries is: 20000
+when IBLT is 1.1 times of the entry number, the mean successfully rate is 0.1401 with a standard deviation: 0
+when IBLT is 1.12 times of the entry number, the mean successfully rate is 0.1644 with a standard deviation: 2.93023e-08
+when IBLT is 1.14 times of the entry number, the mean successfully rate is 0.1766 with a standard deviation: 0
+when IBLT is 1.16 times of the entry number, the mean successfully rate is 0.1976 with a standard deviation: 2.08023e-08
+when IBLT is 1.18 times of the entry number, the mean successfully rate is 0.2237 with a standard deviation: 4.98023e-08
+when IBLT is 1.2 times of the entry number, the mean successfully rate is 0.2422 with a standard deviation: 3.98023e-08
+when IBLT is 1.22 times of the entry number, the mean successfully rate is 0.2655 with a standard deviation: 3.00023e-08
+when IBLT is 1.24 times of the entry number, the mean successfully rate is 0.2923 with a standard deviation: 2.98023e-08
+when IBLT is 1.26 times of the entry number, the mean successfully rate is 0.3334 with a standard deviation: 0
+when IBLT is 1.28 times of the entry number, the mean successfully rate is 0.3633 with a standard deviation: 0
+when IBLT is 1.3 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.32 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.34 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.36 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.38 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.4 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.42 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.44 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.46 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+when IBLT is 1.48 times of the entry number, the mean successfully rate is 1 with a standard deviation: 0
+
+
+
+
+
+
