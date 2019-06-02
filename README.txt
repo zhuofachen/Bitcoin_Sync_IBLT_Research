@@ -1,6 +1,6 @@
 # IBLT-Research
 
-This is Zhuofa Chen working on a new version of IBLT implementation.
+This is Zhuofa Chen working on a new version of IBLT implementation. Contact Zhuofa Chen at zfchen@bu.edu.
 
 Description of Files:
 
