@@ -11,7 +11,7 @@ murmurhash3.cpp - C++ program containing the hash functions used for the IBLT.
 murmurhash3.h - accompanying header file to hash function file.
 
 Added Files: 
-testFunctions.cpp - originally from Matt Cote's repository: https://github.com/mwcote/IBLT-Research. contains necessary functions to run test programs. 
+testFunctions.cpp - contains necessary functions to run test programs. 
 testFunctions.h - accompanying header file. 
 
 IBLT_Test1_get_compare.cpp - Test program for list entries and get value function of IBLT.
